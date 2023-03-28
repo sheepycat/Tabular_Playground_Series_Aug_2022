@@ -1,5 +1,6 @@
 # Machine Learning Final Project - Tabular Playground Series - Aug 2022
-NYCU CS_CS20024 Machine Learning
+Introduction to Machine Learning - Final Project\
+2022 Fall, by Prof. 林彥宇
 ### Introduction
 The task of the final project was to predict the product failure using the [Tabular Playground Series](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview) from kaggle. The dataset contains much noise and missing values, therefore, I utilized several data preprocessing skills to improve the accuracy. Logistic regression model was used to predict the  probability of product failure.
 ### How to reproduce the result
